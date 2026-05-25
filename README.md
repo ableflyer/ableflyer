@@ -83,7 +83,7 @@ CS student at Amity University Dubai working on a Mamba-based speech therapy AI.
 </p>
 
 - 📄 **IEEE Author** — Published on IEEEXplore, 2nd paper in review
-- ⭐ **101 GitHub Stars** across public repositories
+- ⭐ **4 GitHub Stars** across public repositories
 - 🤖 **Mamba SSM Research** — novel speech-AI architecture in active training
 - 🎓 **CS @ Amity Dubai** — final semester, grad school applications open
 
