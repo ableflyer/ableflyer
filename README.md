@@ -33,8 +33,8 @@ CS student at Amity University Dubai working on a Mamba-based speech therapy AI.
 
 | Paper | Venue | Status |
 |-------|-------|--------|
-| **SmartFit**: AI-Powered Fitness Tracking Using Computer Vision | IEEE · 2024 | ✅ Published |
-| **Speak MK1**: Speech Processing Pipeline for Assistive Technology | IEEE · 2025 | ⏳ Coming soon |
+| **SmartFit**: AI-Powered Fitness Tracking Using Computer Vision | IEEE · 2025 | ✅ Published |
+| **Speak MK1**: Speech Processing Pipeline for Assistive Technology | IEEE · 2026 | ⏳ Coming soon |
 
 ---
 
