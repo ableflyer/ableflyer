@@ -71,7 +71,7 @@ CS student at Amity University Dubai working on a Mamba-based speech therapy AI.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ableflyer&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ableflyer&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -79,7 +79,7 @@ CS student at Amity University Dubai working on a Mamba-based speech therapy AI.
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ableflyer&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ableflyer&theme=tokyonight&no-frame=true&row=1&column=6&cache=reload"/>
 </p>
 
 - 📄 **IEEE Author** — Published on IEEEXplore, 2nd paper in review
