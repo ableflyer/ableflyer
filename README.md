@@ -74,6 +74,10 @@ CS student at Amity University Dubai working on a Mamba-based speech therapy AI.
   <img src="https://github-readme-streak-stats.vercel.app/?user=ableflyer&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://user-badge.committers.top/uae/USERNAME.svg"/>
+</p>
+
 ---
 
 ## 🏆 Achievements
