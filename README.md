@@ -75,7 +75,9 @@ CS student at Amity University Dubai working on a Mamba-based speech therapy AI.
 </p>
 
 <p align="center">
-  <img src="https://user-badge.committers.top/uae/ableflyer.svg"/>
+  <a href="https://user-badge.committers.top/uae/ableflyer">
+    <img src="https://user-badge.committers.top/uae/ableflyer.svg" alt="committers.top badge" />
+  </a>
 </p>
 
 ---
