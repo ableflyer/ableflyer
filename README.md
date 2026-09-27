@@ -15,13 +15,6 @@
   <img src="https://img.shields.io/github/stars/ableflyer?color=blueviolet&style=flat-square&label=total%20stars"/>
 </p>
 
-<p align="center">
-  Welcome to my Github profile bradar
-</p>
-<div align="center">
-  <img width="374" height="371" alt="welcome-to-my-github-profile-brother" src="https://github.com/user-attachments/assets/c6ec305a-a215-49d3-a44d-cb1e29070a53" />
-</div>
-
 ---
 
 ## 🚀 About me
