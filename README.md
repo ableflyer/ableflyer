@@ -22,7 +22,7 @@
 CS student at Amity University Dubai working on a Mamba-based speech therapy AI. Passionate about building things that didn't exist before — from ML pipelines to IEEE-published research.
 
 - 🤖 Building a Mamba SSM speech-language pathology model
-- 📄 IEEE-published researcher · Speak MK1 paper coming soon
+- 📄 IEEE-published researcher · Speak MK1 is out now!
 - 🎓 Applying to graduate programs in ML / AI
 - 🏸 Playing badminton on my spare time
 - 🏎️ I Like Racing games and karting
@@ -33,8 +33,8 @@ CS student at Amity University Dubai working on a Mamba-based speech therapy AI.
 
 | Paper | Venue | Status |
 |-------|-------|--------|
-| **SmartFit**: AI-Powered Fitness Tracking Using Computer Vision | IEEE · 2025 | ✅ Published |
-| **Speak MK1**: Speech Processing Pipeline for Assistive Technology | IEEE · 2026 | ⏳ Coming soon |
+| [**SmartFit**: A Fast Computer Vision-Based AI Trainer for Real-Time Exercise Monitoring](https://ieeexplore.ieee.org/document/11318166) | ICCIKE · 2025 | ✅ Published |
+| [**Speak MK1**: A Multimodal Mamba-Attention Architecture for Articulatory Assessment and Speech Therapy](https://ieeexplore.ieee.org/document/11706695) | SMIRC · 2026 | ✅ Published |
 
 ---
 
@@ -70,26 +70,16 @@ CS student at Amity University Dubai working on a Mamba-based speech therapy AI.
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ableflyer&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=ableflyer&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <a href="https://user-badge.committers.top/uae/ableflyer">
-    <img src="https://user-badge.committers.top/uae/ableflyer.svg" alt="committers.top badge" />
-  </a>
-</p>
-
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ableflyer&theme=tokyonight&no-frame=true&row=1&column=6&cache=reload"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ableflyer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 - 📄 **IEEE Author** — Published on IEEEXplore, 2nd paper in review
-- ⭐ **4 GitHub Stars** across public repositories
+- ⭐ **6 GitHub Stars** across public repositories
 - 🤖 **Mamba SSM Research** — novel speech-AI architecture in active training
 - 🎓 **CS @ Amity Dubai** — final semester, grad school applications open
 
@@ -101,9 +91,9 @@ CS student at Amity University Dubai working on a Mamba-based speech therapy AI.
 |--------|------|
 | 🟢 Active | Train and evaluate the Mamba SSM SLP model |
 | 🟢 Active | Graduate from Amity University Dubai |
-| 🟡 Soon | Publish Speak MK1 on IEEEXplore |
+| 🟢 Done | Publish Speak MK1 on IEEEXplore |
+| 🟢 Active | Learn CUDA |
 | 🟡 Soon | Secure a place in a graduate ML/AI program |
-| 🟡 Soon | Learn CUDA |
 
 ---
 
